@@ -1,4 +1,13 @@
-## Hi there 👋
+## Bem vindos ao meu perfil do GitHub. ✨✨
+
+<Sou estudante de programação/>;
+<Pretendo me formar em Sistemas para Internet/>;
+<Aprendendo Javascript/>;
+
+<img src="C:\Users\Nicki\Pictures\banner.png"/>
+
+👩‍💻!
+
 
 <!--
 **BiancaCMelo/BiancaCMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
