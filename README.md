@@ -1,8 +1,6 @@
 ## Bem vindos ao meu perfil do GitHub. ✨✨
 <img src="C:\Users\Nicki\Pictures\banner.png"/>;
-<Sou estudante de programação/>;
-<Pretendo me formar em Sistemas para Internet/>;
-<Aprendendo Javascript/>;
+<Sou estudante de programação/>
 
 
 
