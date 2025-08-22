@@ -4,7 +4,7 @@
 <Pretendo me formar em Sistemas para Internet/>;
 <Aprendendo Javascript/>;
 
-<img src="C:\Users\Nicki\Pictures\banner.png"/>
+<img src="C:\Users\Nicki\Pictures\banner.png"/>;
 
 👩‍💻!
 
