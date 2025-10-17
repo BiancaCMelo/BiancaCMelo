@@ -1,6 +1,6 @@
 ## Bem vindos ao meu perfil do GitHub. ✨✨
  
-![NftGIF](https://github.com/user-attachments/assets/8b021448-6099-4915-8c26-45ed8dd8c60a)
+![AnimeComputerGIF](https://github.com/user-attachments/assets/af596dca-94ae-4db2-8c63-a5ad45f553cc)
 
 <p><i>Estudante de Programação.</i></p>
 <h5><i>Tecnologias:<i/><h5/>
