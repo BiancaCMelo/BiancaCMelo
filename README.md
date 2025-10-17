@@ -1,6 +1,5 @@
 ## Bem vindos ao meu perfil do GitHub. ✨✨
  
-![AnimeComputerGIF](https://github.com/user-attachments/assets/b2e279e1-9ff4-4888-818b-a800215101fc)
 ![CsharpCatProgrammerGIF](https://github.com/user-attachments/assets/feed30da-c7b6-43b0-b6b4-38a0133bf383)
 
 <p><i>Estudante de Programação.</i></p>
